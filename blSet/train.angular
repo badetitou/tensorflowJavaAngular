@@ -1,0 +1,1 @@
+class Main implements Hello { greet(i: integer) {  console.log(i); } }
